@@ -15,3 +15,5 @@ Image format: 112,120 total images with size 1024 x 1024
 
 Class descriptions There are 15 classes (14 diseases, and one for "No findings"). Images can be classified as "No findings" or one or more disease classes:
 Atelectasis, Consolidation, Infiltration, Pneumothorax, Edema, Emphysema, Fibrosis, Effusion, Pneumonia, Pleural_thickening, Cardiomegaly, Nodule Mass, Hernia
+
+Convolutional neural networks are used in this project to identify the diseases.
